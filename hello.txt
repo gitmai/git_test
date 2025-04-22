@@ -1,1 +1,6 @@
-Hola chicos, soy Julian!
+<<<<<<< HEAD
+Hola chicos, soy Alejandro!
+=======
+Hola chic@s, soy Alejandro!
+Vamos a arreglar el mundo
+>>>>>>> main
