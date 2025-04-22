@@ -1,6 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hola chicos, soy Alejandro!
 =======
 Hola chic@s, soy Alejandro!
+=======
+Hola chicos, soy Pablo!
+=======
+Hola chicos, soy Pablo!
+>>>>>>> 2c1e54e8e3daf0d026cf717c5e4b5975d8db9704
 Vamos a arreglar el mundo
 >>>>>>> main
