@@ -1,2 +1,10 @@
-Hola chic@s, soy Aura!
+<<<<<<< HEAD
+Hola chicos, soy David!
+=======
+<<<<<<< HEAD
+Hola chicos, soy Pablo!
+=======
+Hola chicos, soy Pablo!
 Vamos a arreglar el mundo
+>>>>>>> main
+>>>>>>> upstream/1_rama_primera
