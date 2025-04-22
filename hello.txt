@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hola chicos, soy Julian!
+=======
+Hola chic@s, soy Aura!
+Vamos a arreglar el mundo
+>>>>>>> main
