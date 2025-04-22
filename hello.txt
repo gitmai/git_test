@@ -1,6 +1,6 @@
 <<<<<<< HEAD
-Hola chicos, soy Julian!
+Hola chicos, soy Pablo!
 =======
-Hola chic@s, soy Aura!
+Hola chicos, soy Pablo!
 Vamos a arreglar el mundo
 >>>>>>> main
